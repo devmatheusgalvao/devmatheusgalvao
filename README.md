@@ -7,8 +7,8 @@ Além disso, eu já estudei o básico de Python e Java, e possuo sólidos conhec
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devmatheusgalvao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmatheusgalvao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusgalvao&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devmatheusgalvao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusgalvao&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
