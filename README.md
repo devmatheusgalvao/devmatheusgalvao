@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Galvão...
 
-Atualmente, eu trabalho com marketing digital, mas estou transicionando de carreira para a área de programação. Eu me apaixonei pelo Java e, por isso, estou estudando a linguagem com foco no back-end, usando tecnologias como Spring Boot, Spring Data, Spring MVC, Quarkus e outros.
+Atualmente, trabalho com marketing digital, mas estou transicionando de carreira para a área de programação. Eu me apaixonei pelo desenvolvimento web e, por isso, estou estudando o Javascript e o Typescript com foco no back-end, usando tecnologias como Node.js e Express. Além disso, também pretendo aprofundar meus conhecimentos em React e Vue.
 
-Além disso, eu já estudei os fundamentos de Python e Javascript, e possuo sólidos conhecimentos em lógica de programação.
+Também já estudei os fundamentos de Python e possuo sólidos conhecimentos em lógica de programação e programação orientada a objetos (com Java).
 <br>
 <br>
 <br>
@@ -13,11 +13,11 @@ Além disso, eu já estudei os fundamentos de Python e Javascript, e possuo sól
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 <br>
   
