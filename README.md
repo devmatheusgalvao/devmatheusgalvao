@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Galvão...
 
-Atualmente, trabalho com marketing digital, mas estou transicionando de carreira para a área de programação. Eu me apaixonei pelo desenvolvimento back-end e, por isso, estou estudando o Golang com foco em desenvolvimento de API Rest e aplicações web server-side. Além disso, já estudei os conceitos básicos de HTML/CSS, Javascript e orientação à objetos com Java.
+Atualmente, trabalho com marketing digital, mas estou transicionando de carreira para a área de programação. Eu me apaixonei pelo desenvolvimento back-end e, por isso, estou estudando o C#/.NET com foco em desenvolvimento de aplicações server-side. Além disso, já estudei os conceitos básicos de HTML/CSS, Javascript e orientação à objetos com Java.
 <br>
 <br>
 <br>
@@ -11,10 +11,10 @@ Atualmente, trabalho com marketing digital, mas estou transicionando de carreira
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 <br>
   
